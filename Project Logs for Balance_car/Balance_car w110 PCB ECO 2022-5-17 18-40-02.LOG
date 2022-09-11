@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=*-1
+Removed Pin From Net: NetName=NetDCDC_1 Pin=DCDC-1
+Removed Pin From Net: NetName=VCC Pin=S1-1
+Removed Pin From Net: NetName=NetDCDC_1 Pin=S1-2
+Added Pin To Net: NetName=NetDCDC_1 Pin=*-1
+Added Pin To Net: NetName=VCC Pin=DCDC-1
+Added Pin To Net: NetName=NetDCDC_1 Pin=S1-1
+Added Pin To Net: NetName=VCC Pin=S1-2
+Change Net Name : Old Net Name=NetDCDC_1 New Net Name=V_BAT
+Added Room: Name=Designator
+Added Room: Name=Designator

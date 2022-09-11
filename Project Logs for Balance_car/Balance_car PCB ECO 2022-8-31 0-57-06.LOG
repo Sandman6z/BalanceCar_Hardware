@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found AB_Encoder
+Add Component: Footprint Not Found AB_Encoder
+Add Pin To Net: Unknown Pin: Pin L-1
+Add Pin To Net: Unknown Pin: Pin L-2
+Add Pin To Net: Unknown Pin: Pin L-3
+Add Pin To Net: Unknown Pin: Pin L-4
+Add Pin To Net: Unknown Pin: Pin L-5
+Add Pin To Net: Unknown Pin: Pin L-6
+Add Pin To Net: Unknown Pin: Pin R-1
+Add Pin To Net: Unknown Pin: Pin R-2
+Add Pin To Net: Unknown Pin: Pin R-3
+Add Pin To Net: Unknown Pin: Pin R-4
+Add Pin To Net: Unknown Pin: Pin R-5
+Add Pin To Net: Unknown Pin: Pin R-6
+Add Class Member: Failed to add class member : Component L AB_Encoder
+Add Class Member: Failed to add class member : Component R AB_Encoder
+Added Room: Name=Balance_car
+Added Room: Name=Power

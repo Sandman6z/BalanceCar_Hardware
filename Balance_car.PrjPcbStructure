@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Complete.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Complete.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Balance_car.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Balance_car.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Complete.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

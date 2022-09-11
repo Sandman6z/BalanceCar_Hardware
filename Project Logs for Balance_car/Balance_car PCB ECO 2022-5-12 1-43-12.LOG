@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=OLED Old Footprint=HDR1X4 New Footprint=OLED
+Change Net Name : Old Net Name=SCL_6050 New Net Name=MPU6050_SCL
+Change Net Name : Old Net Name=SCL_OLED New Net Name=OLED_SCL
+Change Net Name : Old Net Name=SDA_6050 New Net Name=MPU6050_SDA
+Change Net Name : Old Net Name=SDA_OLED New Net Name=OLED_SDA
+Added Room: Name=Designator
+Added Room: Name=Designator

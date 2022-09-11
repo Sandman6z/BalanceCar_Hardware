@@ -1,0 +1,91 @@
+Added Component: Designator=CPU(STM32F103_mini)
+Added Component: Designator=L(HDR1X6)
+Added Component: Designator=Motor_Drive(TB6612FNG)
+Added Component: Designator=OLED(HDR1X4)
+Added Component: Designator=R(HDR1X6)
+Added Component: Designator=Transformer(Mini360)
+Added Component: Designator=X,Y,Z(HDR1X8)
+Added Pin To Net: NetName=+5 Pin=CPU-18
+Added Pin To Net: NetName=+5 Pin=L-2
+Added Pin To Net: NetName=+5 Pin=Motor_Drive-2
+Added Pin To Net: NetName=+5 Pin=OLED-2
+Added Pin To Net: NetName=+5 Pin=R-2
+Added Pin To Net: NetName=+5 Pin=Transformer-3
+Added Pin To Net: NetName=+5 Pin=X,Y,Z-1
+Added Net: Name=+5
+Added Pin To Net: NetName=AIN1 Pin=CPU-11
+Added Pin To Net: NetName=AIN1 Pin=Motor_Drive-14
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=CPU-12
+Added Pin To Net: NetName=AIN2 Pin=Motor_Drive-15
+Added Net: Name=AIN2
+Added Pin To Net: NetName=BIN1 Pin=CPU-13
+Added Pin To Net: NetName=BIN1 Pin=Motor_Drive-12
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=CPU-16
+Added Pin To Net: NetName=BIN2 Pin=Motor_Drive-11
+Added Net: Name=BIN2
+Added Pin To Net: NetName=ENCODER_LA Pin=CPU-26
+Added Pin To Net: NetName=ENCODER_LA Pin=L-4
+Added Net: Name=ENCODER_LA
+Added Pin To Net: NetName=ENCODER_LB Pin=CPU-28
+Added Pin To Net: NetName=ENCODER_LB Pin=L-3
+Added Net: Name=ENCODER_LB
+Added Pin To Net: NetName=ENCODER_RA Pin=CPU-25
+Added Pin To Net: NetName=ENCODER_RA Pin=R-4
+Added Net: Name=ENCODER_RA
+Added Pin To Net: NetName=ENCODER_RB Pin=CPU-27
+Added Pin To Net: NetName=ENCODER_RB Pin=R-3
+Added Net: Name=ENCODER_RB
+Added Pin To Net: NetName=GND Pin=CPU-19
+Added Pin To Net: NetName=GND Pin=CPU-39
+Added Pin To Net: NetName=GND Pin=CPU-40
+Added Pin To Net: NetName=GND Pin=L-5
+Added Pin To Net: NetName=GND Pin=Motor_Drive-3
+Added Pin To Net: NetName=GND Pin=Motor_Drive-8
+Added Pin To Net: NetName=GND Pin=Motor_Drive-9
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=GND Pin=R-5
+Added Pin To Net: NetName=GND Pin=Transformer-2
+Added Pin To Net: NetName=GND Pin=Transformer-4
+Added Pin To Net: NetName=GND Pin=X,Y,Z-2
+Added Net: Name=GND
+Added Pin To Net: NetName=L+ Pin=L-6
+Added Pin To Net: NetName=L+ Pin=Motor_Drive-4
+Added Net: Name=L+
+Added Pin To Net: NetName=L- Pin=L-1
+Added Pin To Net: NetName=L- Pin=Motor_Drive-5
+Added Net: Name=L-
+Added Pin To Net: NetName=PWMA Pin=CPU-1
+Added Pin To Net: NetName=PWMA Pin=Motor_Drive-16
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=CPU-2
+Added Pin To Net: NetName=PWMB Pin=Motor_Drive-10
+Added Net: Name=PWMB
+Added Pin To Net: NetName=R+ Pin=Motor_Drive-7
+Added Pin To Net: NetName=R+ Pin=R-6
+Added Net: Name=R+
+Added Pin To Net: NetName=R- Pin=Motor_Drive-6
+Added Pin To Net: NetName=R- Pin=R-1
+Added Net: Name=R-
+Added Pin To Net: NetName=SCL_6050 Pin=CPU-14
+Added Pin To Net: NetName=SCL_6050 Pin=X,Y,Z-3
+Added Net: Name=SCL_6050
+Added Pin To Net: NetName=SCL_OLED Pin=CPU-35
+Added Pin To Net: NetName=SCL_OLED Pin=OLED-3
+Added Net: Name=SCL_OLED
+Added Pin To Net: NetName=SDA_6050 Pin=CPU-15
+Added Pin To Net: NetName=SDA_6050 Pin=X,Y,Z-4
+Added Net: Name=SDA_6050
+Added Pin To Net: NetName=SDA_OLED Pin=CPU-36
+Added Pin To Net: NetName=SDA_OLED Pin=OLED-4
+Added Net: Name=SDA_OLED
+Added Pin To Net: NetName=STBY Pin=CPU-5
+Added Pin To Net: NetName=STBY Pin=Motor_Drive-13
+Added Net: Name=STBY
+Added Pin To Net: NetName=VCC Pin=Motor_Drive-1
+Added Pin To Net: NetName=VCC Pin=Transformer-1
+Added Net: Name=VCC
+Added Class: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

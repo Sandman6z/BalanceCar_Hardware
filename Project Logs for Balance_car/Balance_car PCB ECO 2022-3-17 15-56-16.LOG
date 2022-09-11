@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Designator Member=Transformer
+Added Member To Class: ClassName=Designator Member=Component CPU STM32F103_mini
+Added Member To Class: ClassName=Designator Member=Component L AB_Encoder
+Added Member To Class: ClassName=Designator Member=Component Motor_Drive TB6612FNG
+Added Member To Class: ClassName=Designator Member=Component OLED OLED_IIC
+Added Member To Class: ClassName=Designator Member=Component R AB_Encoder
+Added Member To Class: ClassName=Designator Member=Component X,Y,Z MPU6050
+Change Room Name: Old Name=Designator_1 New Name=Designator
