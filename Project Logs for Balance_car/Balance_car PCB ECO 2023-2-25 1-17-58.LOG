@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C8 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C12 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C13 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C15 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=C0603
+Added Room: Name=Balance_car
+Added Room: Name=Power

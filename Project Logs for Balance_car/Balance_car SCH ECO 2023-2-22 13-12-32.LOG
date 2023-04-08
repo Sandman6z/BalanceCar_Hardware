@@ -1,0 +1,28 @@
+Replace Part 1 STM32F103_mini in D:\PCB\Balance_car\Balance_car.SchDoc with STM32F103_mini from Common_Modules.IntLib
+Replace Part C3 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C4 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C5 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C6 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C7 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C8 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C9 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C10 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part C11 Cap in D:\PCB\Balance_car\Balance_car.SchDoc with Cap from Component footprints.IntLib
+Replace Part D1 Diode in D:\PCB\Balance_car\Balance_car.SchDoc with Diode from Component footprints.IntLib
+Replace Part L1 AB_Encoder in D:\PCB\Balance_car\Balance_car.SchDoc with AB_Encoder from Common_Modules.IntLib
+Replace Part OLED1 SSD1306 in D:\PCB\Balance_car\Balance_car.SchDoc with SSD1306 from Common_Modules.IntLib
+Replace Part R1 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R2 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R3 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R4 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R5 AB_Encoder in D:\PCB\Balance_car\Balance_car.SchDoc with AB_Encoder from Common_Modules.IntLib
+Replace Part R6 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R7 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R8 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R9 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R10 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R11 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R12 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part R13 Res in D:\PCB\Balance_car\Balance_car.SchDoc with Res from Component footprints.IntLib
+Replace Part U2 TB6612FNG in D:\PCB\Balance_car\Balance_car.SchDoc with TB6612FNG from Common_Modules.IntLib
+Replace Part X,Y,Z1 MPU6050 in D:\PCB\Balance_car\Balance_car.SchDoc with MPU6050 from Common_Modules.IntLib

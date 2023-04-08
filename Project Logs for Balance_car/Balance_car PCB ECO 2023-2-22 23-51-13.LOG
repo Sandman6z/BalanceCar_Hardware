@@ -1,0 +1,7 @@
+Added Component: Designator=U2(SOT-223-3)
+Add Pin To Net: Unknown Pin: Pin RV1-3
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Member To Class: ClassName=Power Member=Component U2 1117
