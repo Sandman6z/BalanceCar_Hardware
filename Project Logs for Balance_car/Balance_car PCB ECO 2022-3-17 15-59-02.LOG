@@ -1,5 +1,0 @@
-Added Component: Designator=*(XT60PW-M)
-Added Pin To Net: NetName=VCC Pin=*-1
-Added Pin To Net: NetName=GND Pin=*-2
-Added Pin To Net: NetName=GND Pin=*-3
-Added Pin To Net: NetName=GND Pin=*-4

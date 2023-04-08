@@ -1,6 +1,0 @@
-Change Physical Footprint: Designator=* Old Footprint=XT60PW-M New Footprint=XT60PW-M
-Change Physical Footprint: Designator=CPU Old Footprint=STM32F103_mini New Footprint=STM32F103_mini
-Change Physical Footprint: Designator=DCDC Old Footprint=Mini360 New Footprint=Mini360
-Change Physical Footprint: Designator=Motor_Drive Old Footprint=TB6612FNG New Footprint=TB6612FNG
-Change Physical Footprint: Designator=OLED Old Footprint=HDR1X4 New Footprint=HDR1X4
-Change Physical Footprint: Designator=X,Y,Z Old Footprint=MPU6050 New Footprint=MPU6050

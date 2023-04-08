@@ -1,4 +1,0 @@
-Replace Part CPU STM32F103_mini in D:\PCB\Balance_car\Balance_car.SchDoc with STM32F103_mini from Common_Modules.IntLib
-Replace Part Motor_Drive TB6612FNG in D:\PCB\Balance_car\Balance_car.SchDoc with TB6612FNG from Common_Modules.IntLib
-Replace Part OLED OLED_IIC in D:\PCB\Balance_car\Balance_car.SchDoc with OLED_IIC from Common_Modules.IntLib
-Replace Part X,Y,Z MPU6050 in D:\PCB\Balance_car\Balance_car.SchDoc with MPU6050 from Common_Modules.IntLib

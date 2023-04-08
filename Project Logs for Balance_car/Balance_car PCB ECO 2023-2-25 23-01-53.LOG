@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=+5V Pin=C6-1
-Added Pin To Net: NetName=+5V Pin=U2-3
-Change Net Name : Old Net Name=V_BAT New Net Name=VCC
-Change Net Name : Old Net Name=VCC New Net Name=VBAT
-Added Room: Name=Balance_car
