@@ -1,11 +1,14 @@
 # BalanceCar-PCB
-PCB
 
-Pin definition:
+
+## Pin definition:
+
+'''
 	AO1		L+
 	AO2		L-
 	BO1		R-
 	BO2		R+
+'''
 
 	AIN1		PA12
 	AIN2		PA11
