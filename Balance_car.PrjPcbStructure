@@ -1,2 +1,2 @@
-Record=TopLevelDocument|FileName=Power.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Power.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Balance_car.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Balance_car.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Balance_car.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Balance_car.SchDoc|FileName=Power.SchDoc|SheetNumber=1
